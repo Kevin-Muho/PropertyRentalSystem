@@ -72,9 +72,9 @@
 													"parentStyle": true,
 													"left": 313.6708984375,
 													"top": 109,
-													"width": 135.2744140625,
+													"width": 177.91162109375,
 													"height": 13,
-													"text": "FR2: Search Properties "
+													"text": "UC_PRS_2 - Search Properties "
 												},
 												{
 													"_type": "LabelView",
@@ -95,7 +95,7 @@
 											"parentStyle": false,
 											"left": 272,
 											"top": 104,
-											"width": 181.9453125,
+											"width": 224.58251953125,
 											"height": 48,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1N2WlQmbi8g="
@@ -124,9 +124,9 @@
 													"parentStyle": true,
 													"left": 321.6708984375,
 													"top": 205,
-													"width": 119.36083984375,
+													"width": 161.998046875,
 													"height": 13,
-													"text": "FR3: Filter Properties"
+													"text": "UC_PRS_3 - Filter Properties"
 												},
 												{
 													"_type": "LabelView",
@@ -147,7 +147,7 @@
 											"parentStyle": false,
 											"left": 280,
 											"top": 200,
-											"width": 166.03173828125,
+											"width": 208.6689453125,
 											"height": 40,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1OS2aQnEe9c="
@@ -178,8 +178,8 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 376,
-													"top": 75,
+													"left": 385,
+													"top": 71,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 15,
@@ -200,8 +200,8 @@
 													"visible": null,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 391,
-													"top": 75,
+													"left": 399,
+													"top": 67,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 30,
@@ -222,8 +222,8 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 347,
-													"top": 76,
+													"left": 356,
+													"top": 80,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 15,
@@ -242,7 +242,7 @@
 												"$ref": "AAAAAAGd1Nb2QQmQqKs="
 											},
 											"lineStyle": 1,
-											"points": "362:61;362:103",
+											"points": "365:61;377:103",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1Of7zAnWOPc="
@@ -276,7 +276,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 376,
+													"left": 398,
 													"top": 169,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -298,8 +298,8 @@
 													"visible": null,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 391,
-													"top": 168,
+													"left": 413,
+													"top": 169,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 30,
@@ -320,7 +320,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 347,
+													"left": 369,
 													"top": 170,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -340,7 +340,7 @@
 												"$ref": "AAAAAAGd1N2WlQmauUs="
 											},
 											"lineStyle": 1,
-											"points": "362:153;363:199",
+											"points": "384:153;384:199",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1OgMTAnnpCM="
@@ -391,8 +391,8 @@
 													},
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 231,
-													"top": 319,
+													"left": 236,
+													"top": 315,
 													"width": 163.3125,
 													"height": 13,
 													"alpha": 0.008595555316991632,
@@ -415,8 +415,8 @@
 													"visible": null,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 369,
-													"top": 270,
+													"left": 379,
+													"top": 274,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 30,
@@ -437,8 +437,8 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 328,
-													"top": 251,
+													"left": 341,
+													"top": 249,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 15,
@@ -457,7 +457,7 @@
 												"$ref": "AAAAAAGd1OS2aQnDw9k="
 											},
 											"lineStyle": 1,
-											"points": "353:241;331:287",
+											"points": "370:241;339:287",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1OlSfAoAsZo="
@@ -489,9 +489,9 @@
 													"parentStyle": true,
 													"left": 473.6708984375,
 													"top": 413,
-													"width": 151.64501953125,
+													"width": 194.2822265625,
 													"height": 13,
-													"text": "FR4: View Property Details"
+													"text": "UC_PRS_4 - View Property Details"
 												},
 												{
 													"_type": "LabelView",
@@ -512,7 +512,7 @@
 											"parentStyle": false,
 											"left": 432,
 											"top": 408,
-											"width": 198.31591796875,
+											"width": 240.953125,
 											"height": 30,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1OzBNApwgvc="
@@ -541,9 +541,9 @@
 													"parentStyle": true,
 													"left": 465.6708984375,
 													"top": 485,
-													"width": 284.88232421875,
+													"width": 331.8486328125,
 													"height": 13,
-													"text": "FR5: Send Rental Request and Message to Owner"
+													"text": "UC_PRS_5 - Send Rental Request and Message to Owner"
 												},
 												{
 													"_type": "LabelView",
@@ -564,7 +564,7 @@
 											"parentStyle": false,
 											"left": 424,
 											"top": 480,
-											"width": 331.55322265625,
+											"width": 378.51953125,
 											"height": 30,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1O73Rwqd0XQ="
@@ -593,9 +593,9 @@
 													"parentStyle": true,
 													"left": 433.6708984375,
 													"top": 557,
-													"width": 223.43701171875,
+													"width": 266.07421875,
 													"height": 13,
-													"text": "FR17: Accept or Reject Rental Request"
+													"text": "UC_PRS_17 - Accept or Reject Rental Request"
 												},
 												{
 													"_type": "LabelView",
@@ -616,7 +616,7 @@
 											"parentStyle": false,
 											"left": 392,
 											"top": 552,
-											"width": 270.10791015625,
+											"width": 312.7451171875,
 											"height": 30,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1O9jIAqudG8="
@@ -647,7 +647,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 571,
+													"left": 593,
 													"top": 443,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -669,8 +669,8 @@
 													"visible": null,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 583,
-													"top": 434,
+													"left": 604,
+													"top": 433,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 30,
@@ -691,7 +691,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 548,
+													"left": 570,
 													"top": 462,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -711,7 +711,7 @@
 												"$ref": "AAAAAAGd1OzBNApvs2Y="
 											},
 											"lineStyle": 1,
-											"points": "544:439;576:479",
+											"points": "566:439;599:479",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1O+3QAq8nVQ="
@@ -745,8 +745,8 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 569,
-													"top": 534,
+													"left": 591,
+													"top": 535,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 15,
@@ -767,8 +767,8 @@
 													"visible": null,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 580,
-													"top": 544,
+													"left": 602,
+													"top": 545,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 30,
@@ -789,8 +789,8 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 546,
-													"top": 515,
+													"left": 568,
+													"top": 514,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 15,
@@ -809,7 +809,7 @@
 												"$ref": "AAAAAAGd1O73RwqcYYE="
 											},
 											"lineStyle": 1,
-											"points": "575:511;541:551",
+											"points": "599:511;562:551",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1O/BGArNau4="
@@ -859,8 +859,8 @@
 													},
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 440,
-													"top": 682,
+													"left": 441,
+													"top": 679,
 													"width": 114.91162109375,
 													"height": 13,
 													"alpha": -0.04579570069943362,
@@ -883,8 +883,8 @@
 													"visible": null,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 545,
-													"top": 619,
+													"left": 555,
+													"top": 623,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 30,
@@ -905,8 +905,8 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 501,
-													"top": 609,
+													"left": 514,
+													"top": 607,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 15,
@@ -925,7 +925,7 @@
 												"$ref": "AAAAAAGd1O9jIAqtGgQ="
 											},
 											"lineStyle": 1,
-											"points": "524:583;508:655",
+											"points": "542:583;514:655",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1PA7wArmUUg="
@@ -957,9 +957,9 @@
 													"parentStyle": true,
 													"left": 641.6708984375,
 													"top": 789,
-													"width": 164.17529296875,
+													"width": 210.42431640625,
 													"height": 13,
-													"text": "FR8:  Submit Rental Payment"
+													"text": "UC_PRS_8 -  Submit Rental Payment"
 												},
 												{
 													"_type": "LabelView",
@@ -980,7 +980,7 @@
 											"parentStyle": false,
 											"left": 600,
 											"top": 784,
-											"width": 210.84619140625,
+											"width": 257.09521484375,
 											"height": 30,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1PE8lQsZ0Rk="
@@ -1010,8 +1010,8 @@
 													},
 													"font": "Arial;15;0",
 													"parentStyle": false,
-													"left": 672,
-													"top": 701,
+													"left": 674,
+													"top": 696,
 													"width": 39.64990234375,
 													"height": 15,
 													"alpha": 0.6141075666651217,
@@ -1034,8 +1034,8 @@
 													"visible": null,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 683,
-													"top": 669,
+													"left": 681,
+													"top": 665,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 30,
@@ -1056,8 +1056,8 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 642,
-													"top": 688,
+													"left": 643,
+													"top": 690,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 15,
@@ -1076,7 +1076,7 @@
 												"$ref": "AAAAAAGd1O/3bArfeg0="
 											},
 											"lineStyle": 1,
-											"points": "585:690;656:688;698:783",
+											"points": "585:690;656:688;718:783",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1PHRpAsmHG0="
@@ -1127,7 +1127,7 @@
 													"font": "Arial;13;0",
 													"parentStyle": false,
 													"left": 615,
-													"top": 951,
+													"top": 947,
 													"width": 122.83349609375,
 													"height": 13,
 													"alpha": -0.001515329740072291,
@@ -1150,8 +1150,8 @@
 													"visible": null,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 724,
-													"top": 849,
+													"left": 739,
+													"top": 854,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 30,
@@ -1172,8 +1172,8 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 680,
-													"top": 842,
+													"left": 696,
+													"top": 840,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 15,
@@ -1192,7 +1192,7 @@
 												"$ref": "AAAAAAGd1PE8lAsYAvI="
 											},
 											"lineStyle": 1,
-											"points": "702:815;689:887",
+											"points": "723:815;699:887",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1PJ41AtBSEI="
@@ -1308,7 +1308,7 @@
 												"$ref": "AAAAAAGd1PJirQs7G40="
 											},
 											"lineStyle": 1,
-											"points": "591:958;536:960;568:792;599:794",
+											"points": "591:958;536:960;568:792;599:793",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1PZKdwuG5LI="
@@ -1341,8 +1341,8 @@
 													},
 													"font": "Arial;15;0",
 													"parentStyle": false,
-													"left": 456,
-													"top": 304,
+													"left": 454,
+													"top": 302,
 													"width": 24.47021484375,
 													"height": 15,
 													"alpha": 1.5707963267948966,
@@ -1365,8 +1365,8 @@
 													"visible": null,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 480,
-													"top": 296,
+													"left": 477,
+													"top": 293,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 30,
@@ -1387,8 +1387,8 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 443,
-													"top": 322,
+													"left": 445,
+													"top": 324,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 15,
@@ -1407,7 +1407,7 @@
 												"$ref": "AAAAAAGd1OkAiAn541A="
 											},
 											"lineStyle": 1,
-											"points": "417:322;456:320;519:407",
+											"points": "417:322;456:320;537:407",
 											"showVisibility": true,
 											"nameLabel": {
 												"$ref": "AAAAAAGd1Px23HaqYNY="
@@ -2203,7 +2203,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGd1NKvwgl9T4M="
 					},
-					"name": "FR2: Search Properties "
+					"name": "UC_PRS_2 - Search Properties "
 				},
 				{
 					"_type": "UMLInteraction",
@@ -2211,7 +2211,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGd1NKvwgl9T4M="
 					},
-					"name": "FR3: Filter Properties"
+					"name": "UC_PRS_3 - Filter Properties"
 				},
 				{
 					"_type": "UMLInteraction",
@@ -2219,7 +2219,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGd1NKvwgl9T4M="
 					},
-					"name": "FR4: View Property Details"
+					"name": "UC_PRS_4 - View Property Details"
 				},
 				{
 					"_type": "UMLInteraction",
@@ -2227,7 +2227,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGd1NKvwgl9T4M="
 					},
-					"name": "FR5: Send Rental Request and Message to Owner"
+					"name": "UC_PRS_5 - Send Rental Request and Message to Owner"
 				},
 				{
 					"_type": "UMLInteraction",
@@ -2235,7 +2235,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGd1NKvwgl9T4M="
 					},
-					"name": "FR17: Accept or Reject Rental Request"
+					"name": "UC_PRS_17 - Accept or Reject Rental Request"
 				},
 				{
 					"_type": "UMLInteraction",
@@ -2243,7 +2243,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGd1NKvwgl9T4M="
 					},
-					"name": "FR8:  Submit Rental Payment"
+					"name": "UC_PRS_8 -  Submit Rental Payment"
 				}
 			]
 		}
